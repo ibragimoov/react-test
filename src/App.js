@@ -1,9 +1,9 @@
-import Gallery from "./components/Gallery";
+import LightSwitch from "./components/LightSwitch";
 
 function App() {
   return (
     <div>
-      <Gallery />
+      <LightSwitch />
     </div>
   );
 }
