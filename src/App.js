@@ -1,9 +1,9 @@
-import Gallery from "./components/Gallery";
+import Signup from "./components/Signup";
 
 function App() {
   return (
     <div>
-      <Gallery />
+      <Signup />
     </div>
   );
 }
