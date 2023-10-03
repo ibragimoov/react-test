@@ -1,9 +1,9 @@
-import Gallery from "./components/Gallery";
+import FeedbackForm from "./components/FeedbackForm";
 
 function App() {
   return (
     <div>
-      <Gallery />
+      <FeedbackForm />
     </div>
   );
 }
