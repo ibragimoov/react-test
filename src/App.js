@@ -1,9 +1,9 @@
-import Gallery from "./components/Gallery";
+import Toolbar from "./components/Toolbar";
 
 function App() {
   return (
     <div>
-      <Gallery />
+      <Toolbar />
     </div>
   );
 }
